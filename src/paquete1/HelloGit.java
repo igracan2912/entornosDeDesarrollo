@@ -6,6 +6,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("Iván Granados");
 		System.out.println("David Ariza");
+		System.out.println("Daniel Ruiz");
 	}
 
 }
