@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("Iván Granados");
 		System.out.println("David Ariza");
 		System.out.println("Daniel Ruiz");
+		System.out.println("Integra este cambio en tus ficheros locales");
 	}
 
 }
